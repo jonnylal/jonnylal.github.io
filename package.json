@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jonnylal.github.io/",
+  "homepage": "https://jonnylal.github.io/",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@reduxjs/toolkit": "^1.5.1",
