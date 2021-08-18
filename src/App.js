@@ -7,13 +7,13 @@ import Skills from "./components/Skills";
 // import Contact from "./components/Contact";
 // import Testimonials from "./components/Testimonials";
 
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 import "./index.css"
 import "tailwindcss/tailwind.css"
 
 function App() {
-  const [data, setData] = React.useState(null);
+  // const [data, setData] = React.useState(null);
 
   // React.useEffect(() => {
   //   fetch("/api")

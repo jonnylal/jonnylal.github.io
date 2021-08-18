@@ -7,7 +7,7 @@ function About() {
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Jonny.
-                        <br className="hidden lg:inline-block" />I like to tinker with computers, cars and whatever I can get my hands on!
+                        <br className="hidden lg:inline-block" /> I like to tinker with computers, cars and whatever I can get my hands on!
                     </h1>
                     <p className="mb-8 leading-relaxed">
                         There is so much data out there why not take advantage of it, and learn all you can? human learning > machine learning

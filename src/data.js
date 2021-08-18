@@ -1,31 +1,31 @@
 export const projects = [
     {
-        title: "React Reserve",
-        subtitle: "MERN Stack",
+        title: "Transfer Learning Cat and Dog Image Classifier",
+        subtitle: "Python, PyTorch, Keras",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "Trained a neural network with Keras, and Pytorch with an accuracy of 80% and 95% respectively to classify images of cats and dogs",
         image: "./project-1.gif",
     },
     {
-        title: "React Tracks",
-        subtitle: "React and Python",
+        title: "Weenix",
+        subtitle: "C, gdb",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "Unix-like x86 Operating System, built by implementing the kernel's processes, threads, virtual file system, and virtual memory map.",
         image: "./project-2.gif",
     },
     {
-        title: "DevChat",
-        subtitle: "React and Firebase",
+        title: "Answer Communications Website",
+        subtitle: "HTML, CSS, Bootstrap",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "Revamped company website to appear more modern, including parallax scrolling effect, first programming project",
         image: "./project-3.gif",
     },
     {
-        title: "Epic Todo App",
-        subtitle: "React Hooks",
+        title: "SpiroGraph",
+        subtitle: "Python, NoSQL, MongoDB",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
+            "Generated data points with python and ran geospatial queries",
+        image: "./Spirograph.PNG",
     },
 ];
 
@@ -49,10 +49,16 @@ export const testimonials = [
 export const skills = [
     "C/C++",
     "Python",
+    "PyTorch",
+    "Keras",
     "Java",
     "JavaScript",
     "Node",
     "React",
-    "",
-    "test2",
+    "SQL",
+    "NoSQL",
+    "Node",
+    "React",
+    "bash/zsh",
+    "git",
 ];
