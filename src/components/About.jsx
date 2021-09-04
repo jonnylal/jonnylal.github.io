@@ -10,7 +10,7 @@ function About() {
                         <br className="hidden lg:inline-block" /> I like to tinker with computers, cars and whatever I can get my hands on!
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        There is so much data out there why not take advantage of it, and learn all you can? human learning > machine learning
+                        There is so much data out there why not take advantage of it, and learn all you can?
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -19,9 +19,9 @@ function About() {
                             See My Past Work
                         </a>
                         <a
-                            href="#skill"
+                            href="#skills"
                             className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                            These are My Skills
+                            These Are My Skills
                         </a>
                     </div>
                 </div>

@@ -21,11 +21,11 @@ export const projects = [
         image: "./project-3.gif",
     },
     {
-        title: "SpiroGraph",
+        title: "Geospatial Queries",
         subtitle: "Python, NoSQL, MongoDB",
         description:
-            "Generated data points with python and ran geospatial queries",
-        image: "./Spirograph.PNG",
+            "Generated SpiroGraph geospatial points with python and used dataset from National Parks Service, ran bounding box queries to filter spatial points that lie within the region",
+        image: "./project-4.gif",
     },
 ];
 
@@ -57,8 +57,6 @@ export const skills = [
     "React",
     "SQL",
     "NoSQL",
-    "Node",
-    "React",
     "bash/zsh",
     "git",
 ];
